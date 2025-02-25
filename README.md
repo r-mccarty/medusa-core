@@ -32,6 +32,11 @@
   </a>
 </p>
 
+## Admin Credentials
+
+username/email: admin@medusa-test.com
+password: supersecret
+
 ## Compatibility
 
 This starter is compatible with versions >= 2 of `@medusajs/medusa`. 
